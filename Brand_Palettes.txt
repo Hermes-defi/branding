@@ -1,0 +1,9 @@
+IRIS Palette:
+
+  
+PLUTUS Palette:
+Top color:  R = 150 / G = 22 / B = 255 ( Web color code: #921dff )
+Middle color : R = 51 / G = 178 / B = 255 ( Web color code: #5e5dff )
+Bottom color : R = 51 / G = 178 / B = 255 ( Web color code: #3aa5ff )
+
+HERMES Palette:

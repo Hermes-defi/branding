@@ -7,3 +7,7 @@ Middle color : R = 51 / G = 178 / B = 255 ( Web color code: #5e5dff )
 Bottom color : R = 51 / G = 178 / B = 255 ( Web color code: #3aa5ff )
 
 HERMES Palette:
+Yellow 1: (web color code: #f6c770)
+Yellow 2: (web color code: #ecc586)
+Light Purple: (web color code: #c3bde3)
+White: (web color: #fefefe)
